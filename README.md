@@ -1,6 +1,5 @@
 # 👋 Привет, я Тимур
-
-### 🚀 Mobile / Flutter Developer
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=430&lines=Mobile+%2F+Flutter+Developer;Focus+on+Performance+%26+Scalability;Building+Innovative+Mobile+Apps" alt="Typing SVG" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Timur_Mazitov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ваш-профиль)
 [![Gmail Badge](https://img.shields.io/badge/-timur.mazitovm@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:timur.mazitovm@gmail.com)
@@ -15,10 +14,27 @@
 
 ## 🛠 Ключевые навыки
 
-- **Языки и фреймворки:** <code><img height="20" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></code> <code><img height="20" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></code>
-- **Архитектура:** <code><img height="20" src="https://img.shields.io/badge/Clean%20Architecture-grey?style=for-the-badge" /></code> <code><img height="20" src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge" /></code> <code><img height="20" src="https://img.shields.io/badge/MVVM-black?style=for-the-badge" /></code>
-- **Работа с данными:** <code><img height="20" src="https://img.shields.io/badge/REST%20API-005C9C?style=for-the-badge" /></code> <code><img height="20" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></code>
-- **Инструменты:** <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></code> <code><img height="20" src="https://img.shields.io/badge/CI/CD-green?style=for-the-badge" /></code>
+- **Языки и фреймворки:**
+  <p align="left">
+    <a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> </a>
+    <a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> </a>
+    <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> </a>
+    <a href="https://developer.apple.com/ios/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" /> </a>
+  </p>
+
+- **Архитектура и паттерны:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Clean%20Architecture-grey?style=for-the-badge" alt="Clean Architecture" />
+    <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge" alt="BLoC" />
+    <img src="https://img.shields.io/badge/MVVM-black?style=for-the-badge" alt="MVVM" />
+  </p>
+
+- **Работа с данными:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/REST%20API-005C9C?style=for-the-badge" alt="REST API" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Hive-yellow?style=for-the-badge" alt="Hive" />
+  </p>
 
 ---
 
@@ -33,23 +49,49 @@
 
 ## 🌟 Избранные проекты
 
-*Покажите свои лучшие работы с помощью карточек.*
+*Создайте превью-изображения для ваших проектов и замените ими заглушки.*
 
-- ### [posutochnik_flutter](https://github.com/TimaFeyka/posutochnik_flutter)
-  Мобильное приложение для работы со сменами и учётом времени. Работа над UI, state management и интеграциями.
-
-- ### [vpn_app-master](https://github.com/TimaFeyka/vpn_app-master)
-  Прототип VPN-приложения на Flutter с интеграцией нативных модулей и настройками безопасности.
-
-- ### [actor](https://github.com/TimaFeyka/actor)
-  Экспериментальные наработки и примеры архитектурных решений.
+<p align="center">
+  <a href="https://github.com/TimaFeyka/posutochnik_flutter" target="_blank">
+    <img src="https://via.placeholder.com/300x150/007bff/ffffff?text=posutochnik_flutter" alt="posutochnik_flutter" />
+    <br>
+    **posutochnik_flutter**
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TimaFeyka/vpn_app-master" target="_blank">
+    <img src="https://via.placeholder.com/300x150/28a745/ffffff?text=vpn_app-master" alt="vpn_app-master" />
+    <br>
+    **vpn_app-master**
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/TimaFeyka/actor" target="_blank">
+    <img src="https://via.placeholder.com/300x150/dc3545/ffffff?text=actor" alt="actor" />
+    <br>
+    **actor**
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TimaFeyka/Neural-network-telegram-main" target="_blank">
+    <img src="https://via.placeholder.com/300x150/6f42c1/ffffff?text=Telegram%20Bot" alt="Neural-network-telegram-main" />
+    <br>
+    **Telegram Bot with ML**
+  </a>
+</p>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 Моя GitHub Активность
 
-![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimaFeyka&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimaFeyka&layout=compact&theme=vue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TimaFeyka&show_icons=true&theme=vue" alt="Timur's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimaFeyka&theme=dark" alt="GitHub Streak" />
+</p>
+
+### 🗓 Ежедневная Активность
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TimaFeyka&theme=github-dark" alt="Activity Graph" />
+</p>
 
 ---
 
